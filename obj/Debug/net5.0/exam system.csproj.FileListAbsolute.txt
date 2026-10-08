@@ -1,0 +1,20 @@
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\abdelrhman fathy ali\exam system\exam system\obj\Debug\net5.0\exam system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\abdelrhman fathy ali\exam system\exam system\obj\Debug\net5.0\exam system.AssemblyInfoInputs.cache
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\abdelrhman fathy ali\exam system\exam system\obj\Debug\net5.0\exam system.AssemblyInfo.cs
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\abdelrhman fathy ali\exam system\exam system\obj\Debug\net5.0\exam system.csproj.CoreCompileInputs.cache
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\bin\Debug\net5.0\exam system.exe
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\bin\Debug\net5.0\exam system.deps.json
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\bin\Debug\net5.0\exam system.runtimeconfig.json
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\bin\Debug\net5.0\exam system.runtimeconfig.dev.json
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\bin\Debug\net5.0\exam system.dll
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\bin\Debug\net5.0\exam system.pdb
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\exam system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\exam system.AssemblyInfoInputs.cache
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\exam system.AssemblyInfo.cs
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\exam system.csproj.CoreCompileInputs.cache
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\exam system.dll
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\refint\exam system.dll
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\exam system.pdb
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\exam system.genruntimeconfig.cache
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\ref\exam system.dll
+C:\Users\abdelrhman\OneDrive - October 6 University Egypt\Desktop\exam system\exam system\obj\Debug\net5.0\exam sys.CDAAC89F.Up2Date

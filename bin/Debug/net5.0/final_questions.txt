@@ -1,0 +1,3 @@
+QuestionId: 1, Header: Q1, Body: C# supports multiple class inheritance., Marks: 5, Answers: [AnswerId: 1, AnswerText: True | AnswerId: 2, AnswerText: False]
+QuestionId: 2, Header: Q2, Body: Which keyword prevents inheritance?, Marks: 10, Answers: [AnswerId: 1, AnswerText: abstract | AnswerId: 2, AnswerText: virtual | AnswerId: 3, AnswerText: sealed]
+QuestionId: 3, Header: Q3, Body: Which are OOP pillars?, Marks: 10, Answers: [AnswerId: 1, AnswerText: Inheritance | AnswerId: 2, AnswerText: Polymorphism | AnswerId: 3, AnswerText: Compilation | AnswerId: 4, AnswerText: Encapsulation]
